@@ -7,7 +7,7 @@ La Clínica Odontológica OdontoMedical emerge en el año 2012 por la Doctora Ya
 
 **MISION Y VISION**
 
-#Visión:
+#Visión:#
 
 Odontomedical es ser líder en odontología, ofreciendo servicios de alta calidad y atención personalizada respaldada por tecnología innovadora, buscando destacar como un centro de excelencia reconocido mundialmente por nuestro compromiso con la salud bucal y el bienestar de los pacientes.
 
