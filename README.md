@@ -5,7 +5,13 @@ La Clínica Odontológica OdontoMedical emerge en el año 2012 por la Doctora Ya
 ![image](https://github.com/paulacubillos/OdontoMedical/assets/171979323/0ddbe49d-7875-4abc-b971-8c6624c09fd0)
 ![image](https://github.com/paulacubillos/OdontoMedical/assets/171979323/df604fcb-7dae-4680-ae42-1581ee044d67)
 
+**MISION Y VISION**
 
+Visión:Odontomedical es ser líder en odontología, ofreciendo servicios de alta calidad y atención personalizada respaldada por tecnología innovadora, buscando destacar como un centro de excelencia reconocido mundialmente por nuestro compromiso con la salud bucal y el bienestar de los pacientes.
+
+Misión:
+En Odontomedical, nos dedicamos a ofrecer una atención odontológica integral, basada en las necesidades únicas de cada paciente y en los más recientes avances científicos..
+![image](https://github.com/paulacubillos/OdontoMedical/assets/171979323/d83581bd-7ec5-483a-b93c-3ddc3b74c899)
 
 
 
