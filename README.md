@@ -11,7 +11,7 @@ Visión:Odontomedical es ser líder en odontología, ofreciendo servicios de al
 
 Misión:
 En Odontomedical, nos dedicamos a ofrecer una atención odontológica integral, basada en las necesidades únicas de cada paciente y en los más recientes avances científicos..
-![image](https://github.com/paulacubillos/OdontoMedical/assets/171979323/d83581bd-7ec5-483a-b93c-3ddc3b74c899)
+
 
 
 
