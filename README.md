@@ -16,7 +16,7 @@ Misión:
 En Odontomedical, nos dedicamos a ofrecer una atención odontológica integral, basada en las necesidades únicas de cada paciente y en los más recientes avances científicos.
 
 **Sistema de Expediente clínico electrónico y agendamiento de citas**
-![image](https://github.com/paulacubillos/OdontoMedical/assets/171979323/3122f599-9bc4-4ade-9250-af55a0d35b6d)
+
 
 
 
