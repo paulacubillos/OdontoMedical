@@ -48,28 +48,13 @@ Desarrollar un software para mejorar la gestión de historiales clínicos y tene
 
 El proyecto **“DentiSoftware”** se basa en las necesidades de la clínica, la creación y desarrollo de este sistema de información integral es fundamental para modernizar los procesos en OdontoMedical.
 
-# VENTAJAS
+# Ventajas
 
-1. Eficiencia en el agendamiento:
+1. **Eficiencia en el agendamiento:**
 Reservas en Línea: Los clientes pueden reservar sus citas de forma fácil por internet, sin tener que llamar por teléfono.
 	
-2. Acceso a Datos en Tiempo Real: Le proporcionamos información al momento sobre cuándo hay citas disponibles, cuándo están programadas y si hay cambios en el horario.
+2. **Acceso a Datos en Tiempo Real:** Le proporcionamos información al momento sobre cuándo hay citas disponibles, cuándo están programadas y si hay cambios en el horario.
 
- 3. Ahorro de Tiempo: 
+ 3.**Ahorro de Tiempo:**
 Menos Trabajo de Oficina: Automatización de las tareas de papeleo para que el personal tenga una mejor fluidez al momento de lectura y escritura de datos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
