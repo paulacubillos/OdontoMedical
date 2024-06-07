@@ -28,6 +28,14 @@ Diseñar e implementar un sistema de informacion utilizado para optimizar la ges
 - Diseño de una interfaz intuitiva y amigable: Permitirá que los usuarios del software incluyendo a los médicos, asistentes y el personal administrativo. Pueda acceder fácilmente a los datos relevantes, realizar búsquedas avanzadas y generar informes personalizados según la necesidad de la clínica.
 
 
+# Planteamiento del problema
+
+En OdontoMedical, el manejo de expedientes en formato escrito dificulta el acceso al historial de pacientes, aumenta el riesgo de pérdida o daño, limita el acceso y almacenamiento, y puede afectar la legibilidad y precisión de los registros clínicos. También, al no tener un sistema de agendamiento se dificulta la coordinación eficiente de las citas, esto quiere decir que puede haber errores al agendar las citas por medio telefónico, ya que todo se maneja por escrito en hojas
+
+- Posible solución:
+Implementar un sistema digitalizado para optimizar el tiempo de búsqueda y procesamiento de datos
+
+
 
 
 
