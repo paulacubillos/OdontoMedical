@@ -17,6 +17,10 @@ En Odontomedical, nos dedicamos a ofrecer una atención odontológica integral, 
 
 **Sistema de Expediente clínico electrónico y agendamiento de citas**
 
+Objetivo general:
+
+Diseño e implementación de un software para optimizar la gestión clínica y mejorar el agendamiento de citas. 
+
 
 
 
