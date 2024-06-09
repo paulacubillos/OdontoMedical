@@ -26,7 +26,7 @@ Diseñar e implementar un sistema de informacion 💻 utilizado para optimizar l
 
 - Desarrollar un sistema con gestión de datos: Permitirá a la clínica almacenar, organizar y acceder eficientemente a los historiales clínicos de los pacientes, garantizando la confidencialidad y seguridad 🔐 de la información 🗒️.
 - Implementación de funciones para la creación, actualización y consulta de historiales 🗒️: Se optimizan los procesos de registro para la información 🗒️ por parte del personal medico 👩‍⚕️ y administrativo 👩‍💼.
-- Diseño de una interfaz intuitiva 🕹️ y amigable: Permitirá que los usuarios del software  incluyendo a los médicos, asistentes y el personal administrativo. Pueda acceder fácilmente a los datos relevantes, realizar búsquedas avanzadas y generar informes personalizados según la necesidad de la clínica.
+- Diseño de una interfaz intuitiva 🕹️ y amigable: Permitirá que los usuarios del software 💻 incluyendo a los médicos, asistentes y el personal administrativo. Pueda acceder fácilmente a los datos relevantes, realizar búsquedas avanzadas y generar informes personalizados según la necesidad de la clínica.
 
 
 # Planteamiento del problema
