@@ -35,7 +35,7 @@ En OdontoMedical, el manejo de expedientes en formato escrito 🗒️ dificulta 
 
 - Posible solución:
   
-Implementar un sistema digitalizado para optimizar el tiempo de búsqueda y procesamiento de datos
+Implementar un sistema digitalizado 💻 para optimizar el tiempo 🕐 de búsqueda y procesamiento de datos 📂
 
 # Pregunta problema
 
@@ -43,11 +43,11 @@ Implementar un sistema digitalizado para optimizar el tiempo de búsqueda y proc
 
 # Alcance
 
-Desarrollar un software para mejorar la gestión de historiales clínicos y tener más eficacia, facilidad a la hora de agendar sus citas, capacitar de forma continua además de garantizar seguridad y privacidad. Solo se hará para el límite de funcionamiento de la única sede que se encuentra en **Carrera 75 No. 25c-34 LOCAL 3, Modelia**, Bogotá, por políticas del negocio.
+Desarrollar un software 💻 para mejorar la gestión de historiales clínicos 🗒️ y tener más eficacia, facilidad a la hora 🕐 de agendar sus citas, capacitar de forma continua además de garantizar seguridad  y privacidad 🔐. Solo se hará para el límite de funcionamiento de la única sede 🏥 que se encuentra en **Carrera 75 No. 25c-34 LOCAL 3, Modelia**, Bogotá, por políticas del negocio.
 
 # Justificación
 
-El proyecto **“DentiSoftware”** se basa en las necesidades de la clínica, la creación y desarrollo de este sistema de información integral es fundamental para modernizar los procesos en OdontoMedical.
+El proyecto **“DentiSoftware”** se basa en las necesidades de la clínica 🏥, la creación y desarrollo de este sistema de información integral es fundamental para modernizar los procesos en OdontoMedical.
 
 # Ventajas
 
