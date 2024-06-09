@@ -8,17 +8,17 @@ La Clínica Odontológica OdontoMedical emerge en el año 2012 por la Doctora �
 
 **Visión:**
 
-Odontomedical es ser líder en odontología, ofreciendo servicios de alta calidad y atención personalizada respaldada por tecnología innovadora 🖥️, buscando destacar como un centro de excelencia 🏥 reconocido mundialmente por nuestro compromiso con la salud bucal y el bienestar de los pacientes.
+Odontomedical es ser líder en odontología, ofreciendo servicios de alta calidad y atención personalizada respaldada por tecnología innovadora 🖥️, buscando destacar como un centro de excelencia 🏥🦷 reconocido mundialmente por nuestro compromiso con la salud bucal 🪥 y el bienestar de los pacientes 👥.
 
 **Misión:**
 
-En Odontomedical, nos dedicamos a ofrecer una atención odontológica integral, basada en las necesidades únicas de cada paciente 👥 y en los más recientes avances científicos 📚.
+En Odontomedical, nos dedicamos a ofrecer una atención odontológica 🦷 integral, basada en las necesidades únicas de cada paciente 👤 y en los más recientes avances científicos 📚.
 
 # Sistema de Expediente clínico electrónico y agendamiento de citas
 
 **Objetivo general:**
 
-Diseñar e implementar un sistema de informacion 💻 utilizado para optimizar la gestión clínica y mejorar el agendamiento de citas 📓 ademas de ofrecer los servicios en los que especializa la clinica 🏥.
+Diseñar e implementar un sistema de informacion 💻 utilizado para optimizar la gestión clínica 🏥🦷 y mejorar el agendamiento de citas 📓 ademas de ofrecer los servicios en los que especializa la clinica 🏥🦷.
 
 # Objetivos específicos
 
